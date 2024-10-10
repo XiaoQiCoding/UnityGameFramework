@@ -1,0 +1,3 @@
+[submodule "Libraries/GameFramework"]
+	path = Libraries/GameFramework
+	url = git@github.com:XiaoQiCoding/GameFramework.git
